@@ -369,9 +369,6 @@ PRODUCT_PACKAGES += \
     qti-telephony-utils \
     telephony-ext
 
-PRODUCT_BOOT_JARS += \
-    telephony-ext
-
 # TextClassifier
 PRODUCT_PACKAGES += \
     textclassifier.bundle1
